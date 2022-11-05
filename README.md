@@ -16,3 +16,5 @@
 ![3](https://user-images.githubusercontent.com/103204349/200121218-b4768c05-8ae5-40d1-bac5-4ff1b0f67e76.png)
 Расшифрование текста:
 ![4](https://user-images.githubusercontent.com/103204349/200121229-5942bb72-2e1c-45b5-a90a-260a2b4d54f4.png)
+# Использование
+Для запуска программы необходимо перейти в папку «x64»->«Debug»->«net6.0» и выбрать файл «Vigenere-Cryptographer.exe»
